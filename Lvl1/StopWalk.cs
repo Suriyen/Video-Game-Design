@@ -1,0 +1,26 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class StopWalk : MonoBehaviour {
+    public SoccerBall SoccerBall;
+    public bool test;
+    // Use this for initialization
+    void Start () {
+        SoccerBall = FindObjectOfType<SoccerBall>();
+        test = true;
+    }
+
+    // Update is called once per frame
+    void Update () {
+        if (SoccerBall.final == true)
+        {
+            if (test)
+            {
+                Time.timeScale = 0;
+                test = false;
+            }
+        }
+
+    }
+}

@@ -1,0 +1,361 @@
+fileFormatVersion: 2
+guid: 983ee049ce17db443915418c31c30107
+timeCreated: 1513830223
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sphere
+    100004: Sphere_002
+    100006: Sphere_002_MeshPart0
+    100008: Sphere_002_MeshPart1
+    100010: Sphere_004
+    100012: Sphere_004_MeshPart0
+    100014: Sphere_004_MeshPart1
+    100016: Sphere_007
+    100018: Sphere_007_MeshPart0
+    100020: Sphere_007_MeshPart1
+    100022: Sphere_008
+    100024: Sphere_008_MeshPart0
+    100026: Sphere_008_MeshPart1
+    100028: Sphere_011
+    100030: Sphere_011_MeshPart0
+    100032: Sphere_011_MeshPart1
+    100034: Sphere_012
+    100036: Sphere_012_MeshPart0
+    100038: Sphere_012_MeshPart1
+    100040: Sphere_015
+    100042: Sphere_015_MeshPart0
+    100044: Sphere_015_MeshPart1
+    100046: Sphere_017
+    100048: Sphere_017_MeshPart0
+    100050: Sphere_017_MeshPart1
+    100052: Sphere_018
+    100054: Sphere_018_MeshPart0
+    100056: Sphere_018_MeshPart1
+    100058: Sphere_021
+    100060: Sphere_021_MeshPart0
+    100062: Sphere_021_MeshPart1
+    100064: Sphere_022
+    100066: Sphere_022_MeshPart0
+    100068: Sphere_022_MeshPart1
+    100070: Sphere_025
+    100072: Sphere_025_MeshPart0
+    100074: Sphere_025_MeshPart1
+    100076: Sphere_027
+    100078: Sphere_027_MeshPart0
+    100080: Sphere_027_MeshPart1
+    100082: Sphere_029
+    100084: Sphere_029_MeshPart0
+    100086: Sphere_029_MeshPart1
+    100088: Sphere_030
+    100090: Sphere_030_MeshPart0
+    100092: Sphere_030_MeshPart1
+    100094: Sphere_MeshPart0
+    100096: Sphere_MeshPart1
+    400000: //RootNode
+    400002: Sphere
+    400004: Sphere_002
+    400006: Sphere_002_MeshPart0
+    400008: Sphere_002_MeshPart1
+    400010: Sphere_004
+    400012: Sphere_004_MeshPart0
+    400014: Sphere_004_MeshPart1
+    400016: Sphere_007
+    400018: Sphere_007_MeshPart0
+    400020: Sphere_007_MeshPart1
+    400022: Sphere_008
+    400024: Sphere_008_MeshPart0
+    400026: Sphere_008_MeshPart1
+    400028: Sphere_011
+    400030: Sphere_011_MeshPart0
+    400032: Sphere_011_MeshPart1
+    400034: Sphere_012
+    400036: Sphere_012_MeshPart0
+    400038: Sphere_012_MeshPart1
+    400040: Sphere_015
+    400042: Sphere_015_MeshPart0
+    400044: Sphere_015_MeshPart1
+    400046: Sphere_017
+    400048: Sphere_017_MeshPart0
+    400050: Sphere_017_MeshPart1
+    400052: Sphere_018
+    400054: Sphere_018_MeshPart0
+    400056: Sphere_018_MeshPart1
+    400058: Sphere_021
+    400060: Sphere_021_MeshPart0
+    400062: Sphere_021_MeshPart1
+    400064: Sphere_022
+    400066: Sphere_022_MeshPart0
+    400068: Sphere_022_MeshPart1
+    400070: Sphere_025
+    400072: Sphere_025_MeshPart0
+    400074: Sphere_025_MeshPart1
+    400076: Sphere_027
+    400078: Sphere_027_MeshPart0
+    400080: Sphere_027_MeshPart1
+    400082: Sphere_029
+    400084: Sphere_029_MeshPart0
+    400086: Sphere_029_MeshPart1
+    400088: Sphere_030
+    400090: Sphere_030_MeshPart0
+    400092: Sphere_030_MeshPart1
+    400094: Sphere_MeshPart0
+    400096: Sphere_MeshPart1
+    2300000: Sphere_002_MeshPart0
+    2300002: Sphere_002_MeshPart1
+    2300004: Sphere_004_MeshPart0
+    2300006: Sphere_004_MeshPart1
+    2300008: Sphere_007_MeshPart0
+    2300010: Sphere_007_MeshPart1
+    2300012: Sphere_008_MeshPart0
+    2300014: Sphere_008_MeshPart1
+    2300016: Sphere_011_MeshPart0
+    2300018: Sphere_011_MeshPart1
+    2300020: Sphere_012_MeshPart0
+    2300022: Sphere_012_MeshPart1
+    2300024: Sphere_015_MeshPart0
+    2300026: Sphere_015_MeshPart1
+    2300028: Sphere_017_MeshPart0
+    2300030: Sphere_017_MeshPart1
+    2300032: Sphere_018_MeshPart0
+    2300034: Sphere_018_MeshPart1
+    2300036: Sphere_021_MeshPart0
+    2300038: Sphere_021_MeshPart1
+    2300040: Sphere_022_MeshPart0
+    2300042: Sphere_022_MeshPart1
+    2300044: Sphere_025_MeshPart0
+    2300046: Sphere_025_MeshPart1
+    2300048: Sphere_027_MeshPart0
+    2300050: Sphere_027_MeshPart1
+    2300052: Sphere_029_MeshPart0
+    2300054: Sphere_029_MeshPart1
+    2300056: Sphere_030_MeshPart0
+    2300058: Sphere_030_MeshPart1
+    2300060: Sphere_MeshPart0
+    2300062: Sphere_MeshPart1
+    3300000: Sphere_002_MeshPart0
+    3300002: Sphere_002_MeshPart1
+    3300004: Sphere_004_MeshPart0
+    3300006: Sphere_004_MeshPart1
+    3300008: Sphere_007_MeshPart0
+    3300010: Sphere_007_MeshPart1
+    3300012: Sphere_008_MeshPart0
+    3300014: Sphere_008_MeshPart1
+    3300016: Sphere_011_MeshPart0
+    3300018: Sphere_011_MeshPart1
+    3300020: Sphere_012_MeshPart0
+    3300022: Sphere_012_MeshPart1
+    3300024: Sphere_015_MeshPart0
+    3300026: Sphere_015_MeshPart1
+    3300028: Sphere_017_MeshPart0
+    3300030: Sphere_017_MeshPart1
+    3300032: Sphere_018_MeshPart0
+    3300034: Sphere_018_MeshPart1
+    3300036: Sphere_021_MeshPart0
+    3300038: Sphere_021_MeshPart1
+    3300040: Sphere_022_MeshPart0
+    3300042: Sphere_022_MeshPart1
+    3300044: Sphere_025_MeshPart0
+    3300046: Sphere_025_MeshPart1
+    3300048: Sphere_027_MeshPart0
+    3300050: Sphere_027_MeshPart1
+    3300052: Sphere_029_MeshPart0
+    3300054: Sphere_029_MeshPart1
+    3300056: Sphere_030_MeshPart0
+    3300058: Sphere_030_MeshPart1
+    3300060: Sphere_MeshPart0
+    3300062: Sphere_MeshPart1
+    4300000: Sphere_030_MeshPart0
+    4300002: Sphere_030_MeshPart1
+    4300004: Sphere_027_MeshPart0
+    4300006: Sphere_027_MeshPart1
+    4300008: Sphere_029_MeshPart0
+    4300010: Sphere_029_MeshPart1
+    4300012: Sphere_025_MeshPart0
+    4300014: Sphere_025_MeshPart1
+    4300016: Sphere_022_MeshPart0
+    4300018: Sphere_022_MeshPart1
+    4300020: Sphere_021_MeshPart0
+    4300022: Sphere_021_MeshPart1
+    4300024: Sphere_018_MeshPart0
+    4300026: Sphere_018_MeshPart1
+    4300028: Sphere_017_MeshPart0
+    4300030: Sphere_017_MeshPart1
+    4300032: Sphere_015_MeshPart0
+    4300034: Sphere_015_MeshPart1
+    4300036: Sphere_012_MeshPart0
+    4300038: Sphere_012_MeshPart1
+    4300040: Sphere_011_MeshPart0
+    4300042: Sphere_011_MeshPart1
+    4300044: Sphere_008_MeshPart0
+    4300046: Sphere_008_MeshPart1
+    4300048: Sphere_007_MeshPart0
+    4300050: Sphere_007_MeshPart1
+    4300052: Sphere_004_MeshPart0
+    4300054: Sphere_004_MeshPart1
+    4300056: Sphere_002_MeshPart0
+    4300058: Sphere_002_MeshPart1
+    4300060: Sphere_MeshPart0
+    4300062: Sphere_MeshPart1
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amarillo
+    second: {fileID: 2100000, guid: dc4ac22e820a54f4896de5e1597735b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amarillo_bola_9
+    second: {fileID: 2100000, guid: e07d5149f599d354d8263fed438c645a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 22af0e4f1d341b647b2a6bf207636a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue
+    second: {fileID: 2100000, guid: 640fe102f1bf45a41b6a31e3ca7dca67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blue_bola_10
+    second: {fileID: 2100000, guid: 1b3afc430d129cd448e226a5e20188eb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: morado
+    second: {fileID: 2100000, guid: b04d20b20aaa05247a90f16a8b0ab570, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: morado_bola_12
+    second: {fileID: 2100000, guid: 60247bbbc8c44e140bbe33a324f1fdac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: naranja
+    second: {fileID: 2100000, guid: 23edbc7f32900504b9efbab3880ba7f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: naranja_bola_13
+    second: {fileID: 2100000, guid: 1a602e63914cdf0488757f7a2713b43b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rojo
+    second: {fileID: 2100000, guid: 2fbc00c93ac56614ab907797f3cb247e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: rojo_bola_11
+    second: {fileID: 2100000, guid: 1a15f200975fa454f8dd84d7f21d4517, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: verde
+    second: {fileID: 2100000, guid: 735dcd17ac2fc2a41a065971a8a9320c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: verde_bola_14
+    second: {fileID: 2100000, guid: cb9d97b2cefc26842aa3286a904834da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vinotinto
+    second: {fileID: 2100000, guid: d494a2c0edc03b0438016684501ff1d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vinotinto_bola_15
+    second: {fileID: 2100000, guid: 470f62ceddb295e4d891c9ff3a7b33e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white
+    second: {fileID: 2100000, guid: 0b424a1f0766f67418b72d72771ab5c6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
